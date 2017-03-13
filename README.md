@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Security Bootcamp
 
 Python Security bootcamp aims at helping people with solving,automating challenges in security using python. Some of them might be seen in your CTF's, your pentests or small snippets always you wanted to create and automate.
@@ -53,3 +54,4 @@ Bugs/Feedback
 
 - Note: Most of the things were created my me during free time, so bear with the mistakes.
 - Love the Project or would like to say something  you didn't like about the project email me : helofrancis[at]gmail[dot]com.
+=======

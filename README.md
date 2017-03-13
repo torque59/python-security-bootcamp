@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Security Bootcamp
 
 Python Security bootcamp aims at helping people with solving,automating challenges in security using python. Some of them might be seen in your CTF's, your pentests or small snippets always you wanted to create and automate.
